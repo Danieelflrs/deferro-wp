@@ -1,0 +1,38 @@
+.nosotros-item{
+    background-image: url(../images/fonod.svg);
+    background-attachment: fixed;
+}
+
+.nosotros-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #233427d6;
+    padding: 80px;    
+}
+
+.nosotros-txt{
+    
+    margin: 35px;
+    max-width: 700px;
+    min-width: 300px;
+    margin-bottom: 0;
+    color: #fff;
+    font-family: 'Monserrat', sans-serif;
+    font-size: 18px;
+    padding: 50px;
+    cursor: default;
+}
+
+.nosotros-img{
+    border-radius: 25px;
+    max-width: 700px;
+    min-width: 300px;
+    margin: 35px;
+    display: flex;
+    width: 400px;
+    height: auto;
+
+}
